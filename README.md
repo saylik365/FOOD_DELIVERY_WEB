@@ -23,6 +23,6 @@ A modern and user-friendly food ordering website that ensures quality food, grea
 
 
 ## **📩 Contact**  
-If you have any queries, feel free to reach out at: **your-email@example.com**  
+If you have any queries, feel free to reach out at: **saylikulkarni0645@gmail.com**  
 
 
